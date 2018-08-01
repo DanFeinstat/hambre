@@ -293,6 +293,7 @@ body {
   }
 }
 .landing-logo {
+  cursor: pointer;
   display: inline-block;
   vertical-align: middle;
   -webkit-transform: perspective(1px) translateZ(0);
